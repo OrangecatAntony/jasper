@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.0
+
+Name: licenses/TIB_js-jss-ce_6.16.0_license.txt
+SHA-256-Digest: 5TnybPhZSsC+jlgBbPoc6u2GjANcbyYsqDzJRqV+3hc=
+
+Name: feature.xml
+SHA-256-Digest: c3Vc0JUvdt2ADCTkt3m+12T7r5HALwU2iauuXtNSn/M=
+
+Name: licenses/TIB_js-studiocomm_eclipse_notices.zip
+SHA-256-Digest: rHGQy5MknRJG2cS/LwlnhhrhRZAXu8+5701j5Rzm0IA=
+
+Name: feature.properties
+SHA-256-Digest: mfyEaJAaaNyHcbo4K8kuCy5SC0R7izmzF+r5jBAhXgQ=
+
+Name: license.html
+SHA-256-Digest: xa4ZGUCJx1c/pQtHa7bCHGJgSOa1usqWe7OxsUjEplw=
+
